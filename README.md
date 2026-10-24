@@ -1,6 +1,6 @@
 # Airplane CAD
 
-A 3D airplane model designed in Onshape by me 
+A 3D airplane model designed in Onshape by me . A cad of airplane with parts such as propeller , horizontal and vertical stabilizer, screw , plane body , wings , wheel etc which functions , the propeller can move also the wheel which takes this project at basic mechanical project .
 
 ## Preview
 
@@ -23,4 +23,7 @@ https://github.com/AakristaDhungana/airplane-cad
 ## About
 
 This is my airplane CAD project, designed in Onshape. I worked on the model shape and main structure and explored the tools used to create a 3D design.
+
+## License
+None
 
