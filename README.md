@@ -4,7 +4,9 @@ A 3D airplane model designed in Onshape by me
 
 ## Preview
 
-![Airplane CAD Model](images/airplanecad.png)
+## Preview
+
+![My Airplane CAD Model](airplanecad.png)
 
 ## CAD Model
 
